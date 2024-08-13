@@ -23,6 +23,7 @@ const App = () => {
   }, []);
   return (
     <>
+    //this is app.js
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Layout />}>
